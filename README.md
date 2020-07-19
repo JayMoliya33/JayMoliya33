@@ -3,7 +3,7 @@
 <!--
 **JayMoliya33/JayMoliya33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=JayMoliya33)](https://github.com/JayMoliya33/github-readme-stats)
+#[![JayMoliya33 github stats](https://github-readme-stats.vercel.app/api?username=JayMoliya33)](https://github.com/JayMoliya33/github-readme-stats)
 
 Here are some ideas to get you started:
 
