@@ -1,18 +1,7 @@
-### Hi there 👋 I'm Jay 👨‍💻
+### Hi 👋
+- 🌱 I’m currently learning Kotlin for Android App Development.
+- 🤝 I’m looking to collaborate on Android Development Projects. 
 
-<!--
-**JayMoliya33/JayMoliya33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-#[![JayMoliya33 github stats](https://github-readme-stats.vercel.app/api?username=JayMoliya33)](https://github.com/JayMoliya33/github-readme-stats)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
--  I’m currently learning Android App Development.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/feed/) 
