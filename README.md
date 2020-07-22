@@ -1,6 +1,6 @@
 ### Hi 👋
 - 🌱 I’m currently learning Kotlin for Android App Development.
-- 🤝 I’m looking to collaborate on Android Development Projects. 
+- 🤝 I’m looking to collaborate on Android App Development Projects. 
 
 
  
