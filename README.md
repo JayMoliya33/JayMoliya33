@@ -6,10 +6,8 @@
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=JayMoliya33&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/JayMoliya33/github-readme-stats)
 
- 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/feed/) 
 
-<br/>
 <h3>Languages and Tools:</h3>
 
 <p align="left">  
@@ -21,4 +19,5 @@
  <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
+<br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayMoliya33&layout=compact&theme=algolia"/>
