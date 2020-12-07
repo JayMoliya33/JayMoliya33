@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi 👋, I'm Jay</h1>
 <h3 align="center">A passionate Android App developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JayMoliya33&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JayMoliya33&label=Profile%20views&color=0e75b6&style=flat" alt="Jay Moliya" /> </p>
 
 
 - 🌱 I’m currently learning Kotlin for Android
