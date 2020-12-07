@@ -1,4 +1,5 @@
-### A passionate Android App developer.
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">A passionate Android App developer.</h3>
 - 📫 How to reach me: Instagram [@android_dev_tips](https://www.instagram.com/android_dev_tips/)
 
 
