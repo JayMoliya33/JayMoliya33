@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate Android App developer.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JayMoliya33&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+
+
+- 🌱 I’m currently learning Kotlin for Android
+
+- 💬 Ask me about **Android App Development**
+
 - 📫 How to reach me: Instagram [@android_dev_tips](https://www.instagram.com/android_dev_tips/)
 
 
