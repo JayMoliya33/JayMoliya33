@@ -1,6 +1,5 @@
 ### Hi 👋
-- 🤝 I’m looking to collaborate on Android App Development Projects. 
-- 🌱 I’m currently learning #Kotlin
+A passionate Android App developer.
 - 📫 How to reach me: Instagram [@android_dev_tips](https://www.instagram.com/android_dev_tips/)
 
 
