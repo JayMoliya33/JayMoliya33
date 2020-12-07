@@ -1,5 +1,4 @@
-### Hi 👋
-A passionate Android App developer.
+### A passionate Android App developer.
 - 📫 How to reach me: Instagram [@android_dev_tips](https://www.instagram.com/android_dev_tips/)
 
 
