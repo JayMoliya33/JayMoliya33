@@ -1,8 +1,8 @@
 <h1 align="center">👋Hi there, I'm Jay</h1>
-<h3 align="center">A passionate Android App developer.</h3>
+<h3 align="center">A Passionate Android App developer.</h3>
 
 
-- 🌱 I’m currently learning Kotlin for Android
+- 🌱 I’m currently learning Flutter for Mobile App Development.
 
 - 💬 Ask me about **Android App Development**
 
