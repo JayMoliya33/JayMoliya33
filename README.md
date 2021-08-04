@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Mobile App developer.</h3>
 
 
-- 💬 Ask me about **Android App Development**
+- 💬 Ask me about **Mobile App Development**
 
 - 🌱 I’m currently learning Flutter & AR tech.
 
