@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **Mobile App Development**
 
-- 🌱 I’m currently learning Flutter & AR tech.
+- 🌱   I’m currently learning Flutter ❤️
 
 - 📫 reach me at Instagram : [@android_dev_tips](https://www.instagram.com/android_dev_tips/)
 
