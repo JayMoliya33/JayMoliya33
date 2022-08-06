@@ -1,5 +1,5 @@
 <h1 align="center">👋Hi there, I'm Jay</h1>
-<h3 align="center">A Passionate Flutter App developer.</h3>
+<h3 align="center">A Passionate Flutter developer.</h3>
 
 
 - 💬  Ask me about **Mobile App Development**
